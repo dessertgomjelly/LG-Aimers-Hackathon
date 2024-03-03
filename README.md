@@ -1,12 +1,25 @@
 # 영업 성공 여부 분류 경진대회
+
+MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개발
 <br>
 <br>
+
+
+
+
+## 결과
+
 <img width="1000" alt="image" src="https://github.com/dessertgomjelly/LG-Aimers-Hackathon/assets/127851446/cde44ff9-c488-4f26-a3e1-f7d411677fa3">
 
-## 소개
- 이에 따라 영업 과정에서는 머신 러닝 기술을 적용하여 전환 가능성이 높은 고객을 더 정확하게 예측한다.
+
+
+Public sore 0.51 -> 0.71 (164위 / 844, 상위 19.43%)
+
+Phase 2. LG-Aimers-Hackathon 수료
 <br>
 <br>
+
+
 ## 데이터셋 구성
 
 #### 학습용 데이터셋
@@ -23,10 +36,4 @@
 <br>
 <br>
 
-## 결과 지표
-이 대회에서는 모델의 성능을 평가하기 위해 F1 Score를 사용합니다. F1 Score는 정밀도와 재현율을 결합한 지표로, 영업 성공 여부를 정확하게 예측하는 데에 중요한 역할을 합니다.
-<br>
-<br>
 
-## 채점 방법
-참가자들은 submission.csv 파일을 읽어와 학습된 모델에 적용한 후 결과를 저장해야 합니다. 이 결과는 submission.csv 파일로 제출되어 채점됩니다.
