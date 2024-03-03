@@ -1,6 +1,6 @@
 # 영업 성공 여부 분류 경진대회
 
-MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개발
+**LG Aimers Phase 2.** MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개발
 <br>
 <br>
 
@@ -12,10 +12,14 @@ MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개발
 <img width="1000" alt="image" src="https://github.com/dessertgomjelly/LG-Aimers-Hackathon/assets/127851446/cde44ff9-c488-4f26-a3e1-f7d411677fa3">
 
 
+<br>
+<br>
 
 Public sore 0.51 -> 0.71 (164위 / 844, 상위 19.43%)
 
 Phase 2. LG-Aimers-Hackathon 수료
+
+[최종 제출본 바로가기](https://github.com/dessertgomjelly/LG-Aimers-Hackathon/blob/main/2%EC%9B%94%2025%EC%9D%BC%200.71/code.ipynb)
 <br>
 <br>
 
