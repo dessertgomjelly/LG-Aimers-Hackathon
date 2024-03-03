@@ -1,6 +1,7 @@
 # 영업 성공 여부 분류 경진대회
 <br>
 <br>
+<img width="1000" alt="image" src="https://github.com/dessertgomjelly/LG-Aimers-Hackathon/assets/127851446/cde44ff9-c488-4f26-a3e1-f7d411677fa3">
 
 ## 소개
  이에 따라 영업 과정에서는 머신 러닝 기술을 적용하여 전환 가능성이 높은 고객을 더 정확하게 예측한다.
